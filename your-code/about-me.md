@@ -15,6 +15,7 @@ Analizar, estadística, visualizar datos, habilidades comunicativas, etc.
 # What will I do after the bootcamp?
 Espero trabajar sobre esto
 * Which industry will you seek employment in?
+Industria tech
 * What will your future role look like?
 Social Media Data Analyst
 * What is your career goal?
